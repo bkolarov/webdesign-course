@@ -1,0 +1,46 @@
+#wrapper {
+	width: 900px;
+	border: 1px solid black;
+	padding: 10px 10px 10px 20px;
+	overflow: hidden;
+}
+
+#header {
+	background-color: #cccccc;
+	overflow: hidden;
+	margin-bottom: 10px;
+	margin-left: -10px;
+}
+
+#content {
+	background-color: #cccccc;
+	width: 65%;
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 5px;
+}
+
+#sidebar20 {
+	background-color: #cccccc;
+	width: 20%;
+	float: left;
+	margin: 0 5px 10px -10px;
+}
+
+#sidebar15 {
+	background-color: #cccccc;
+	width: 15%;
+	float: left;
+	margin-left: 0 10px 10px -10px;
+}
+
+#footer {
+	background-color: #cccccc;
+	overflow: hidden;
+	clear: both;
+	margin-left: -10px;
+}
+
+p {
+	margin: 10px;
+}
