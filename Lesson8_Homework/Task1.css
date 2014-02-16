@@ -1,0 +1,72 @@
+#menu {
+	overflow: hidden;
+}
+
+#menu li {
+	float: left;
+	display: block;
+	background: #cccccc;
+	margin: 1px;
+}
+
+#menu a {
+	text-decoration: none;
+	color: black;
+	padding: 9px;
+	display: block;
+}
+
+#menu a:hover {
+	background-color: white;
+}
+
+#menu ul ul {
+	display: none;
+}
+
+#menu ul li:hover > ul {
+	display: block;
+}
+
+#menu ul li ul li {
+	float: none;
+}
+#menu {
+	overflow: hidden;
+}
+
+#menu li {
+	float: left;
+	display: block;
+	background: #cccccc;
+	margin: 1px;
+}
+
+#menu a {
+	text-decoration: none;
+	color: black;
+	padding: 9px;
+	display: block;
+}
+
+#menu a:hover {
+	background-color: white;
+}
+
+#menu ul ul {
+	display: none;
+}
+
+#menu ul li:hover > ul {
+	display: block;
+}
+
+#menu ul li ul li {
+	float: none;
+	position: relative;
+}
+
+#menu ul li ul {
+	float: none;
+	margin-left: -40px;	
+}

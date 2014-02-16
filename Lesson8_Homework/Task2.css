@@ -1,0 +1,22 @@
+img{
+	width: 200px;
+}
+
+#wrapper {
+	width: 900px;
+	padding: 10px;
+	border: 1px solid black;
+	overflow: hidden;
+	float: left;
+}
+
+#picture {
+	float: left;
+	width: 200px;
+	margin: 8px;	
+}
+
+#row {
+	width: 100%;
+	overflow: hidden;
+}
